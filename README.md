@@ -226,4 +226,5 @@ pipeline {
 
 ## 👤 Auteur
 
-**ESPRIT — UP ASI**  
+**ESPRIT — UP ASI**
+Le pipeline Jenkins compile le backend Spring Boot.
